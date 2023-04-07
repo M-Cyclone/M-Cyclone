@@ -18,4 +18,3 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/M-Cyclone/count.s
 
 ### My Repos.
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=M-Cyclone&repo=AndroidSlam&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=M-Cyclone&repo=Kuhaku&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
